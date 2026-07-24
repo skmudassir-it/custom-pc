@@ -20,7 +20,7 @@ export const services: ServiceItem[] = [
     title: "Custom Gaming PCs",
     description: "High-performance gaming rigs built for 4K, VR, and esports. Every component selected for maximum frame rates and thermal efficiency.",
     icon: faGamepad,
-    image: "/images/services/gaming-pcs.svg",
+    image: "/images/services/gaming-pcs.jpg",
     features: [
       "4K & VR-ready configurations",
       "RGB lighting integration",
@@ -35,7 +35,7 @@ export const services: ServiceItem[] = [
     title: "Professional Workstations",
     description: "Content creation, CAD, and scientific computing rigs optimized for multi-threaded workloads and GPU acceleration.",
     icon: faDesktop,
-    image: "/images/services/workstations.svg",
+    image: "/images/services/workstations.jpg",
     features: [
       "Threadripper & Intel Xeon options",
       "Multi-GPU configurations",
@@ -50,7 +50,7 @@ export const services: ServiceItem[] = [
     title: "PC Upgrades & Repairs",
     description: "Breathe new life into your existing rig. GPU upgrades, storage expansion, troubleshooting, and more.",
     icon: faWrench,
-    image: "/images/services/upgrades-repairs.svg",
+    image: "/images/services/upgrades-repairs.jpg",
     features: [
       "GPU & CPU upgrades",
       "RAM & storage expansion",
@@ -65,7 +65,7 @@ export const services: ServiceItem[] = [
     title: "Custom Water Cooling",
     description: "Hardline and soft-tube custom loop designs that push thermal performance and aesthetics to the limit.",
     icon: faDroplet,
-    image: "/images/services/water-cooling.svg",
+    image: "/images/services/water-cooling.jpg",
     features: [
       "Hardline PETG & acrylic tubing",
       "Custom reservoir mounting",
@@ -80,7 +80,7 @@ export const services: ServiceItem[] = [
     title: "Cable Management",
     description: "Showcase-quality cable routing that transforms your PC's interior into a work of art.",
     icon: faPlug,
-    image: "/images/services/cable-management.svg",
+    image: "/images/services/cable-management.jpg",
     features: [
       "Custom-length cable sleeving",
       "Behind-tray routing",
@@ -95,7 +95,7 @@ export const services: ServiceItem[] = [
     title: "PC Build Consultation",
     description: "One-on-one consultation to plan your dream build. Part selection, compatibility review, and budget optimization.",
     icon: faComments,
-    image: "/images/services/consulting.svg",
+    image: "/images/services/consulting.jpg",
     features: [
       "Budget optimization",
       "Component compatibility review",
@@ -120,42 +120,42 @@ export const projects: ProjectItem[] = [
     title: "CrystalForge 4090",
     category: "Gaming",
     description: "Dual-custom-loop gaming tower with RTX 4090, i9-14900K, and hand-bent acrylic tubing in a Lian Li O11D Evo XL.",
-    image: "/images/projects/project-1.svg",
+    image: "/images/projects/project-1.jpg",
     specs: "RTX 4090 | i9-14900K | 64GB DDR5 | 4TB Gen5 NVMe"
   },
   {
     title: "RenderNode Pro",
     category: "Workstation",
     description: "Dual RTX 6000 Ada workstation for architectural rendering — 96GB VRAM, Threadripper 7970X, silent operation under full load.",
-    image: "/images/projects/project-2.svg",
+    image: "/images/projects/project-2.jpg",
     specs: "2x RTX 6000 Ada | TR 7970X | 128GB ECC | 8TB SSD"
   },
   {
     title: "SFF Stealth",
     category: "Small Form Factor",
     description: "RTX 4070 Ti Super crammed into an 11L Fractal Terra case with custom cables and Noctua cooling — silent and portable.",
-    image: "/images/projects/project-3.svg",
+    image: "/images/projects/project-3.jpg",
     specs: "RTX 4070 TiS | Ryzen 7 7800X3D | 32GB DDR5 | 2TB NVMe"
   },
   {
     title: "NeonFlow",
     category: "Water Cooling",
     description: "Hardline dual-loop with UV-reactive coolant, distro plate integration, and custom RGB profile synced to system temps.",
-    image: "/images/projects/project-4.svg",
+    image: "/images/projects/project-4.jpg",
     specs: "RTX 4080 Super | i7-14700K | 32GB DDR5 | Custom Loop"
   },
   {
     title: "SimRig Extreme",
     category: "Specialty",
     description: "Triple-monitor sim racing PC with motion platform controller integration, 64GB RAM, and dedicated peripheral USB hub.",
-    image: "/images/projects/project-5.svg",
+    image: "/images/projects/project-5.jpg",
     specs: "RX 7900 XTX | Ryzen 9 7950X3D | 64GB DDR5 | 8TB SSD"
   },
   {
     title: "Creator's Canvas",
     category: "Workstation",
     description: "Silent editing suite build with Mac Pro-inspired aluminum chassis mod, Thunderbolt 4, and 10GbE networking.",
-    image: "/images/projects/project-6.svg",
+    image: "/images/projects/project-6.jpg",
     specs: "RTX 4080 Super | i9-14900K | 96GB DDR5 | 12TB NVMe"
   }
 ];
